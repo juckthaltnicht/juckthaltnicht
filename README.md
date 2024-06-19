@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juckthaltnicht&label=Profile%20views&color=0e75b6&style=flat" alt="juckthaltnicht" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckthaltnicht" alt="juckthaltnicht" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/juckthaltnicht](https://github.com/juckthaltnicht)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/juckthaltnicht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juckthaltnicht" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juckthaltnicht" height="30" width="40" /><p>juckthaltnicht</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
